@@ -1,0 +1,14 @@
+[09:07:56] [Server thread/INFO]: Loading properties
+[09:07:56] [Server thread/INFO]: Default game type: SURVIVAL
+[09:07:56] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-549c1fa-45c8386 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[09:07:56] [Server thread/INFO]: Debug logging is disabled
+[09:07:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:07:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:07:56] [Server thread/INFO]: Generating keypair
+[09:07:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:07:57] [Server thread/INFO]: Using default channel type
+[09:07:58] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[09:07:58] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use: bind
+[09:07:58] [Server thread/WARN]: Perhaps a server is already running on that port?
+[09:07:58] [Server thread/INFO]: Stopping server
+[09:07:58] [Server thread/INFO]: Saving players

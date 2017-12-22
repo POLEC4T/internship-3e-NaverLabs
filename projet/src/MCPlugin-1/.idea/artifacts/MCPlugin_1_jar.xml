@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MCPlugin-1:jar">
+    <output-path>$USER_HOME$/Documents/projet/server/plugins</output-path>
+    <root id="archive" name="MCPlugin-1.jar">
+      <element id="module-output" name="MCPlugin-1" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/projet/server/spigot-api-1.12.2-R0.1-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+name: Sword-plugin
+version: 1.12.2
+author: Polecat
+main: fr.polecat.test.Sword
+commands:
